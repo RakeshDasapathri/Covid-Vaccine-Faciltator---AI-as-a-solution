@@ -1,1 +1,1 @@
-# Distributed-Computing
+# Covid Vaccine Faciltator - AI as a solution
